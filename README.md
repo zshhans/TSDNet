@@ -1,6 +1,10 @@
 # A Tree-Based Structure-Aware Transformer Decoder for Image-To-Markup Generation
 
 This is the [PyTorch](https://pytorch.org/) and [PyTorch Lightning](https://www.pytorchlightning.ai/) implementation of our paper: *A Tree-Based Structure-Aware Transformer Decoder for Image-To-Markup Generation*.
+
+Reference:
+> Shuhan Zhong, Sizhe Song, Guanyao Li, and S.-H. Gary Chan. 2022. A Tree-Based Structure-Aware Transformer Decoder for Image-To-Markup Generation. In Proceedings of the 30th ACM International Conference on Multimedia (MM ’22), Oct. 10–14, 2022, Lisboa, Portugal. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3503161.3548424
+
 ![overview](./figs/overview.jpg)
 ## Dependency Setup
 * Create a conda virtual environment
